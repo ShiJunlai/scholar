@@ -2063,8 +2063,9 @@ body {
 }
 
 #result_logo img {
-    width: 101px;
-    height: 33px
+    width: 170px;
+    height: 27px;
+    margin-top: 9px;
 }
 
 #result_logo.qm-activity {
